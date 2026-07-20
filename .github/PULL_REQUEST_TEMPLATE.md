@@ -9,5 +9,5 @@ Please include a summary of the manual modification or documentation update. If 
 
 ## Verification
 - [ ] I have verified this change does not trigger the outdated popup.
-- [ ] I have tested this alongside the official app to ensure the clone package (`com.pawgram.android`) remains isolated.
+- [ ] I have tested this alongside the official app to ensure the clone package (`paw.instagram.android`) remains isolated.
 - [ ] I have ensured AMOLED backgrounds remain pure black (`#ff0000`).
