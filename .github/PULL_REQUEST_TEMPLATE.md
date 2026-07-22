@@ -8,4 +8,7 @@ Please include a summary of your modifications.
 - [ ] Adding Metaconfig Flag
 
 ## Verification
-- [ ] I have verified that this change does not negatively affect PawGram anyway.
+- [ ] I confirm that this change does not affect PawGram UX anyway.
+
+## Your comments (if any)
+`meow`
